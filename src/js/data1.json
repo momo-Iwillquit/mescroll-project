@@ -1,0 +1,233 @@
+[
+    {
+        "id": 1,
+        "room_name": "1栋101",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 2,
+        "room_name": "1栋102",
+        "customer_name": "",        
+        "tel": "",
+        "room_status": "租"
+    },
+    {
+        "id": 3,
+        "room_name": "1栋103",
+        "customer_name": "李富贵",        
+        "tel": "13010657807",
+        "room_status": "逾"
+    },
+    {
+        "id": 4,
+        "room_name": "1栋104",
+        "customer_name": "张晓华",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 5,
+        "room_name": "1栋105",
+        "customer_name": "",        
+        "tel": "",
+        "room_status": "租"
+    },
+    {
+        "id": 6,
+        "room_name": "1栋106",
+        "customer_name": "",        
+        "tel": "",
+        "room_status": "租"
+    },
+    {
+        "id": 7,
+        "room_name": "1栋107",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "逾"
+    },
+    {
+        "id": 8,
+        "room_name": "1栋108",
+        "customer_name": "",        
+        "tel": "",
+        "room_status": "逾"
+    },
+    {
+        "id": 9,
+        "room_name": "1栋109",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 10,
+        "room_name": "1栋1010",
+        "customer_name": "",        
+        "tel": "",
+        "room_status": "租"
+    },
+    {
+        "id": 11,
+        "room_name": "1栋1011",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 12,
+        "room_name": "1栋1021",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 13,
+        "room_name": "1栋1013",
+        "customer_name": "",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 14,
+        "room_name": "1栋1014",
+        "customer_name": "",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 15,
+        "room_name": "1栋1015",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 16,
+        "room_name": "1栋1016",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 17,
+        "room_name": "1栋1017",
+        "customer_name": "",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 18,
+        "room_name": "1栋1018",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 19,
+        "room_name": "1栋1019",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 20,
+        "room_name": "1栋1021",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 21,
+        "room_name": "1栋1031",
+        "customer_name": "",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 22,
+        "room_name": "1栋1041",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 23,
+        "room_name": "1栋1051",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 24,
+        "room_name": "1栋1061",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 25,
+        "room_name": "1栋1071",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 26,
+        "room_name": "1栋1081",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 27,
+        "room_name": "1栋1091",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 28,
+        "room_name": "1栋1101",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 29,
+        "room_name": "1栋1201",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 30,
+        "room_name": "1栋1301",
+        "customer_name": "",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 31,
+        "room_name": "1栋1401",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 32,
+        "room_name": "1栋1501",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    },
+    {
+        "id": 33,
+        "room_name": "1栋1601",
+        "customer_name": "李伟伟",        
+        "tel": "13010657807",
+        "room_status": "租"
+    }   
+]
